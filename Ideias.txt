@@ -1,0 +1,2 @@
+* Tutorial dos comandos no inicio do game
+* Apagar as palavras balançando o celular(shake)
