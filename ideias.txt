@@ -1,0 +1,4 @@
+* Tutorial dos comandos no inicio do game
+* Apagar as palavras balançando o celular(shake)
+* Tela treme dizendo "não" quando estiver errado
+* não apagar a palavra digitada
